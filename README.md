@@ -184,4 +184,4 @@ Este projeto é de uso educacional e livre para modificações.
 
 ---
 
-**Desenvolvido com Python 🐍 | POO | Clean Code**
+**Desenvolvido com Python 🐍 | POO |**
